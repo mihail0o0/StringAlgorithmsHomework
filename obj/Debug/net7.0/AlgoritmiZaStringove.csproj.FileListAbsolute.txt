@@ -1,0 +1,15 @@
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/bin/Debug/net7.0/AlgoritmiZaStringove
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/bin/Debug/net7.0/AlgoritmiZaStringove.deps.json
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/bin/Debug/net7.0/AlgoritmiZaStringove.runtimeconfig.json
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/bin/Debug/net7.0/AlgoritmiZaStringove.dll
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/bin/Debug/net7.0/AlgoritmiZaStringove.pdb
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.csproj.AssemblyReference.cache
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.GeneratedMSBuildEditorConfig.editorconfig
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.AssemblyInfoInputs.cache
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.AssemblyInfo.cs
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.csproj.CoreCompileInputs.cache
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.dll
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/refint/AlgoritmiZaStringove.dll
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.pdb
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/AlgoritmiZaStringove.genruntimeconfig.cache
+/home/mix/Documents/Skrrr/AlgoritmiIzborni/AlgoritmiZaStringove/obj/Debug/net7.0/ref/AlgoritmiZaStringove.dll
